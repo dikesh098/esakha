@@ -15,6 +15,7 @@ const Contact = () => {
     success: "",
   });
 
+
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -28,7 +29,7 @@ const Contact = () => {
       setStatus({
         loading: false,
         error: "",
-        success: `Message sent successfully! ID: ${docRef.id}`,
+        success: `Message sent successfully!`,
       });
       setFormData({ name: "", mobile: "", email: "", message: "" }); // Reset the form
     } catch (error) {
