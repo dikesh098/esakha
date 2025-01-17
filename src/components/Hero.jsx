@@ -36,7 +36,7 @@ const Hero = () => {
                   Get Started
                 </a>
                 <a
-                  href="https://www.youtube.com/watch?v=_FlEVeFeItM&list=RD_FlEVeFeItM&start_radio=1"
+                  href="https://youtube.com/@esakha.in0?si=SU-pdPF_TED6h0k3"
                   className="btn btn-link mt-2 mt-sm-0 glightbox"
                 >
                   <i className="bi bi-play-circle me-1"></i>
