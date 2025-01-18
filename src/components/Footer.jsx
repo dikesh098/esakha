@@ -37,46 +37,25 @@ const Footer = () => {
             </div>
           </div>
 
-          <div className="col-lg-2 col-md-3 footer-links">
-            <h4></h4>
-            <ul>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-            </ul>
+          <div className="col-lg-2 col-md-3 d-flex align-items-center  ">
+            <img
+              src="/img/ny.png"
+              alt="ny logo"
+              srcset=""
+              width={150}
+              style={{ display: "inline-block" }}
+            />
+
           </div>
 
-          <div className="col-lg-2 col-md-3 footer-links">
-            <h4></h4>
-            <ul>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-              <li>
-                <a href="#"></a>
-              </li>
-            </ul>
+          <div className="col-lg-2 col-md-3 d-flex align-items-center">
+            <img
+              src="/img/ny1.png"
+              alt="ny logo"
+              srcset=""
+              width={150}
+              style={{ display: "inline-block" }}
+            />
           </div>
 
           <div className="col-lg-2 col-md-3 footer-links">
